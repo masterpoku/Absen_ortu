@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "249383667201",
+    "project_id": "absensiarduino-fd0f2",
+    "storage_bucket": "absensiarduino-fd0f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249383667201:android:773f83a26c61cc51a2e200",
+        "android_client_info": {
+          "package_name": "com.example.absensi_arduino_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249383667201-82tlcrfn87j42g1sackeapbdq294rl90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGB1WwvXm7Vfcegh2cGUH8s9BT2g23y10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249383667201-82tlcrfn87j42g1sackeapbdq294rl90.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "249383667201-echhhg61kkh3r7b9s0drdpirm9kk39t0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.absensiArduinoAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249383667201:android:963d48317152142ca2e200",
+        "android_client_info": {
+          "package_name": "com.example.absensi_arduino_ortu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249383667201-82tlcrfn87j42g1sackeapbdq294rl90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGB1WwvXm7Vfcegh2cGUH8s9BT2g23y10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249383667201-82tlcrfn87j42g1sackeapbdq294rl90.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "249383667201-echhhg61kkh3r7b9s0drdpirm9kk39t0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.absensiArduinoAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
