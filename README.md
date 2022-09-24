@@ -14,6 +14,9 @@
 - RFID RC522
 - JUMPER / KABEL
 
+# Copyrigth
+- Auliya Wafi 
+- wafibaran@gmail.com
 
 # SCREENSHOT
 
