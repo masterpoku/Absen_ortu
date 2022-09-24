@@ -1,5 +1,5 @@
 # absensi_arduino_ortu
-Rekap aplikasi yang digunakan oleh orang tua siswa sebagai pemberitahuan bahwa siswa melakukan absensi
+- Rekap aplikasi yang digunakan oleh orang tua siswa sebagai pemberitahuan bahwa siswa melakukan absensi
 
 # Bahasa Pemrogramman
 - PHP
